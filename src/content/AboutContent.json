@@ -1,0 +1,16 @@
+{
+  "title": "Effortless Implementation: Data Science with Speed and Responsiveness",
+  "text": "Experience a course that is ready to use, requiring no adjustments at the component level unless you wish to personalize the default styling to suit your preferences.",
+  "section": [
+    {
+      "title": "Optimizing with Data Science Tools",
+      "content": "Explore the efficiency of specialized data science tools, carefully selected to simplify the creation of an elegant and efficient user interface tailored for data science applications.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Crafting Unique Designs with Personalization",
+      "content": "Unlock the potential of data science tools that provide you with comprehensive control over the appearance of your components. This empowers you to create a visually stunning and uniquely tailored design for your data science projects.",
+      "icon": "notes.svg"
+    }
+  ]
+}
